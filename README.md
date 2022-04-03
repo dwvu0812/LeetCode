@@ -21,7 +21,7 @@
 - Link: https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 - Difficulity: easy
 
-## Day 1: Sign of product 
+## Day 4: Sign of product 
 
 - Link: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 - Difficulity: easy
