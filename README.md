@@ -25,3 +25,12 @@
 
 - Link: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 - Difficulity: easy
+## Day 5: Can Make Arithmetic Progression From Sequence
+
+- Link: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+- Difficulity: easy
+
+## Happy Number
+
+- Link: https://leetcode.com/problems/happy-number/
+- Difficulity: easy
