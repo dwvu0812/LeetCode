@@ -30,7 +30,7 @@
 - Link: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 - Difficulity: easy
 
-## Happy Number
+#### Happy Number
 
 - Link: https://leetcode.com/problems/happy-number/
 - Difficulity: easy
