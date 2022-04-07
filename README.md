@@ -34,3 +34,13 @@
 
 - Link: https://leetcode.com/problems/happy-number/
 - Difficulity: easy
+
+## Day 6: Check if One String Swap Can Make Strings Equal
+
+- Link: https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+- Difficulity: easy
+## Day 6: Next Greater Element I
+
+- Link: https://leetcode.com/problems/next-greater-element-i/
+- Difficulity: easy
+
