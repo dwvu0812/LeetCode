@@ -48,4 +48,8 @@
 
 - Link: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 - Difficulity: easy
+## Day 9: Sum of All Odd Length Subarrays
+
+- Link: https://leetcode.com/submissions/detail/676721204/
+- Difficulity: easy
 
