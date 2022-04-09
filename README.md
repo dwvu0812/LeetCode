@@ -39,8 +39,13 @@
 
 - Link: https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 - Difficulity: easy
-## Day 6: Next Greater Element I
+## Day 7: Next Greater Element I
 
 - Link: https://leetcode.com/problems/next-greater-element-i/
+- Difficulity: easy
+
+## Day 8: Check If It Is a Straight Line
+
+- Link: https://leetcode.com/problems/check-if-it-is-a-straight-line/
 - Difficulity: easy
 
