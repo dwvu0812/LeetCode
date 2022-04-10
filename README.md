@@ -52,4 +52,8 @@
 
 - Link: https://leetcode.com/submissions/detail/676721204/
 - Difficulity: easy
+## Day 10: Move Zeroes
+
+- Link: https://leetcode.com/problems/move-zeroes/
+- Difficulity: easy
 
