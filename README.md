@@ -52,8 +52,15 @@
 
 - Link: https://leetcode.com/submissions/detail/676721204/
 - Difficulity: easy
-## Day 10: Move Zeroes
 
+## Day 10: Move Zeroes
 - Link: https://leetcode.com/problems/move-zeroes/
 - Difficulity: easy
 
+## Day 11: Two Sum
+- Link: https://leetcode.com/problems/two-sum/
+- Difficulity: easy
+
+## Day 11: Roman to Integer
+- Link: https://leetcode.com/problems/roman-to-integer/
+- Difficulity: easy
