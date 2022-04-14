@@ -64,3 +64,13 @@
 ## Day 11: Roman to Integer
 - Link: https://leetcode.com/problems/roman-to-integer/
 - Difficulity: easy
+
+## Day 12: Palindrome Number
+- Link: https://leetcode.com/problems/palindrome-number/
+- Difficulity: easy
+
+## Day 12: Longest Common Prefix
+- Link: https://leetcode.com/problems/longest-common-prefix/
+- Difficulity: easy
+
+
