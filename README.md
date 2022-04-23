@@ -73,4 +73,42 @@
 - Link: https://leetcode.com/problems/longest-common-prefix/
 - Difficulity: easy
 
+## Day 13: Valid Parentheses
+- Link: https://leetcode.com/problems/valid-parentheses/
+- Difficulity: easy
 
+## Day 13: Merge Two Sorted Lists
+- Link: https://leetcode.com/problems/merge-two-sorted-lists/
+- Difficulity: easy
+
+## Day 13: Remove Duplicates from Sorted Array
+- Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- Difficulity: easy
+
+## Day 14: Remove Element
+- Link: https://leetcode.com/problems/remove-element
+- Difficulity: easy
+
+## Day 14: Design HashSet
+- Link: https://leetcode.com/problems/design-hashset/
+- Difficulity: easy
+
+## Day 15: Implement strStr
+- Link: https://leetcode.com/problems/implement-strstr
+- Difficulity: easy
+
+## Day 15: Search Insert Position
+- Link: https://leetcode.com/problems/search-insert-position
+- Difficulity: easy
+
+## Day 15: Maximum Subarray
+- Link: https://leetcode.com/problems/maximum-subarray/
+- Difficulity: easy
+
+## Day 15: Length of Last Word
+- Link: https://leetcode.com/problems/length-of-last-word/
+- Difficulity: easy
+
+## Day 15: Plus One
+- Link: https://leetcode.com/problems/plus-one/
+- Difficulity: easy
