@@ -112,3 +112,31 @@
 ## Day 15: Plus One
 - Link: https://leetcode.com/problems/plus-one/
 - Difficulity: easy
+
+## Day 16: Add Binary
+- Link: https://leetcode.com/problems/add-binary/
+- Difficulity: easy
+
+## Day 16: Sqrt(x)
+- Link: https://leetcode.com/problems/sqrtx/
+- Difficulity: easy
+
+## Day 16: Climbing Stairs
+- Link: https://leetcode.com/problems/climbing-stairs/
+- Difficulity: easy
+
+## Day 17: Remove Duplicates from Sorted List
+- Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+- Difficulity: easy
+
+## Day 17: Merge Sorted Array
+- Link: https://leetcode.com/problems/merge-sorted-array/
+- Difficulity: easy
+
+## Day 17: Binary Tree Inorder Traversal
+- Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+- Difficulity: easy
+
+## Day 17: Same Tree
+- Link: https://leetcode.com/problems/same-tree/
+- Difficulity: easy
