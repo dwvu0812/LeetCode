@@ -140,3 +140,15 @@
 ## Day 17: Same Tree
 - Link: https://leetcode.com/problems/same-tree/
 - Difficulity: easy
+
+## Day 18: Symmetric Tree
+- Link: https://leetcode.com/problems/symmetric-tree/
+- Difficulity: easy
+
+## Day 18: Maximum Depth of Binary Tree
+- Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- Difficulity: easy
+
+## Day 18: Convert Sorted Array to Binary Search Tree
+- Link: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+- Difficulity: easy
