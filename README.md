@@ -152,3 +152,19 @@
 ## Day 18: Convert Sorted Array to Binary Search Tree
 - Link: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 - Difficulity: easy
+
+## Day 19: Single Number
+- Link: https://leetcode.com/problems/single-number/
+- Difficulity: easy
+
+## Day 19: Balanced Binary Tree
+- Link: https://leetcode.com/problems/balanced-binary-tree/
+- Difficulity: easy
+
+## Day 19: Minimum Depth of Binary Tree
+- Link: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+- Difficulity: easy
+
+## Day 19: Path Sum
+- Link: https://leetcode.com/problems/path-sum/
+- Difficulity: easy
