@@ -168,3 +168,13 @@
 ## Day 19: Path Sum
 - Link: https://leetcode.com/problems/path-sum/
 - Difficulity: easy
+
+## Day 20: Pascals-Triangle
+- Link: https://leetcode.com/problems/pascals-triangle/
+- Difficulity: easy
+## Day 20: Pascal's Triangle II
+- Link: https://leetcode.com/problems/pascals-triangle-ii/
+- Difficulity: easy
+## Day 20: Best Time to Buy and Sell Stock
+- Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- Difficulity: easy
