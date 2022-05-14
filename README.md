@@ -178,3 +178,15 @@
 ## Day 20: Best Time to Buy and Sell Stock
 - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Difficulity: easy
+## Day 21: Linked List Cycle
+- Link: https://leetcode.com/problems/linked-list-cycle/
+- Difficulity: easy
+## Day 21: Binary Tree Preorder Traversal
+- Link: https://leetcode.com/problems/binary-tree-preorder-traversal/
+- Difficulity: easy
+## Day 21: Binary Tree Postorder Traversal
+- Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+- Difficulity: easy
+## Day 21: Min Stack
+- Link: https://leetcode.com/problems/min-stack/
+- Difficulity: easy
