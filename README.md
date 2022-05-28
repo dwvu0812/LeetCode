@@ -190,3 +190,45 @@
 ## Day 21: Min Stack
 - Link: https://leetcode.com/problems/min-stack/
 - Difficulity: easy
+## Day 22: Intersection of Two Linked Lists
+- Link: https://leetcode.com/problems/intersection-of-two-linked-lists/
+- Difficulity: easy
+## Day 22:  Excel Sheet Column Title
+- Link: https://leetcode.com/problems/excel-sheet-column-title/
+- Difficulity: easy
+## Day 22:  Majority Element
+- Link: https://leetcode.com/problems/majority-element/
+- Difficulity: easy
+## Day 22:  Excel Sheet Column Number
+- Link: https://leetcode.com/problems/excel-sheet-column-number/
+- Difficulity: easy
+## Day 22:  Reverse Bits
+- Link: https://leetcode.com/problems/reverse-bits/
+- Difficulity: easy
+## Day 22:  Remove Linked List Elements
+- Link: https://leetcode.com/problems/remove-linked-list-elements/
+- Difficulity: easy
+## Day 22:  Isomorphic Strings
+- Link: https://leetcode.com/problems/isomorphic-strings/
+- Difficulity: easy
+## Day 23:  Reverse Linked List
+- Link: https://leetcode.com/problems/reverse-linked-list/
+- Difficulity: easy
+## Day 23:  Contains Duplicate
+- Link: https://leetcode.com/problems/contains-duplicate/
+- Difficulity: easy
+## Day 23:  Contains Duplicate II
+- Link: https://leetcode.com/problemset/all/?difficulty=EASY&page=2
+- Difficulity: easy
+## Day 23:  Invert Binary Tree
+- Link: https://leetcode.com/problems/invert-binary-tree/
+- Difficulity: easy
+## Day 23:  Summary Ranges
+- Link: https://leetcode.com/problems/summary-ranges/
+- Difficulity: easy
+## Day 23:  Power of Two
+- Link: https://leetcode.com/problems/power-of-two/
+- Difficulity: easy
+## Day 23:  Palindrome Linked List
+- Link: https://leetcode.com/problems/palindrome-linked-list/
+- Difficulity: easy
