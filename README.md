@@ -232,3 +232,24 @@
 ## Day 23:  Palindrome Linked List
 - Link: https://leetcode.com/problems/palindrome-linked-list/
 - Difficulity: easy
+## Day 24:  Lowest Common Ancestor of a Binary Search Tree
+- Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- Difficulity: easy
+## Day 24:  Delete Node in a Linked List
+- Link: https://leetcode.com/problems/delete-node-in-a-linked-list/
+- Difficulity: easy
+## Day 24:  Valid Anagram
+- Link: https://leetcode.com/problems/valid-anagram/
+- Difficulity: easy
+## Day 24:  Binary Tree Paths
+- Link: https://leetcode.com/problems/binary-tree-paths/
+- Difficulity: easy
+## Day 24:  Add Digits
+- Link: https://leetcode.com/problems/add-digits/
+- Difficulity: easy
+## Day 24:  Ugly Number
+- Link: https://leetcode.com/problems/ugly-number/
+- Difficulity: easy
+## Day 24:  Missing Number
+- Link: https://leetcode.com/problems/missing-number/
+- Difficulity: easy
